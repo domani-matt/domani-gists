@@ -12,6 +12,7 @@ $userlist = array(
 	"domani-matt",
 	"sublimited",
 	"domani-syoung",
-	'domani-smatysik'
+	"domani-smatysik",
+	"alastairjwright"
 );
 ?>
