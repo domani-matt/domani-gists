@@ -7,10 +7,11 @@ if(!defined('RUN_CODE')){
 $userlist = array(
 	"nanpx",
 	"domani-studios",
-	"smatysik",
+	"domani-sdelesque",
 	"domani-abonilla",
 	"domani-matt",
 	"sublimited",
-	"abonilla"
+	"domani-syoung",
+	'domani-smatysik'
 );
 ?>

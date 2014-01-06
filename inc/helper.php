@@ -21,8 +21,6 @@ function parseRequest(){
 }
 
 function get($url_suffix){
-	$id = "cc28b68011b6d8c0ac2d";
-	$secret = "8c276440bca6f9ed5dc125a1104ecab1e619a12e";
 	$ch = curl_init();
 	$options = array(
 		CURLOPT_URL => "https://api.github.com/$url_suffix?client_id=".API_ID."&client_secret=".API_SECRET,
