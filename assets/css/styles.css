@@ -376,9 +376,6 @@ h3 {
 	margin-left: 0;
 	position: relative;
 }
-#gistcode.active > code {
-	visibility: visible;
-}
 #gistcode > code {
 	visibility: hidden;
 	position: absolute;
